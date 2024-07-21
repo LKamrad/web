@@ -7,7 +7,6 @@ html {
 	scroll-behavior: smooth;
 }
 body {
-	
 	font-family: "Open Sans", sans-serif;
 }
 
@@ -56,7 +55,7 @@ section {
 /*Navigacja*/
 nav {
 	position: sticky;
-	top:0;
+	top: 0;
 	height: 60px;
 	line-height: 60px;
 	background-color: #ddd;
@@ -209,10 +208,9 @@ footer {
 	.products-box {
 		font-size: 0px;
 	}
-	h2 {
 
+	.section-title {
 		font-size: 25px;
-
 	}
 	.product {
 		display: inline-block;
