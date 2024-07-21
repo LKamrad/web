@@ -209,6 +209,11 @@ footer {
 	.products-box {
 		font-size: 0px;
 	}
+	h2 {
+
+		font-size: 25px;
+
+	}
 	.product {
 		display: inline-block;
 		width: 50%;
